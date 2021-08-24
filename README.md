@@ -1,2 +1,3 @@
-# ommyuc-web
-web de la oli
+# Olimpiada de Matemáticas Yucatán
+
+Creatividad en la resolución de problemas
