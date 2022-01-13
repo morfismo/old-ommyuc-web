@@ -28,7 +28,7 @@ El siguiente es en enlace al **Examen de Secundaria 2021**, para que conozcas c�
 
 * **[Exámenes anteriores](https://intranet.matematicas.uady.mx/omm/problemarios)**
 * **[Libro: 20 temas Selectos, volumen 1](https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i?_pos=2&_sid=377d6fe44&_ss=r)**
-* **[Libro: La Olimpiada de Matemáticas en Yucatàn, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)**
+* **[Libro: La Olimpiada de Matemáticas en Yucatán, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)**
 
 
 ### Enlaces:
