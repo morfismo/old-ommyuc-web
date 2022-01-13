@@ -1,6 +1,6 @@
 ## Examen Estatal 2022
 <div style="text-align: right">
-** [CONVOCATORIA 2022](http://ommyuc.org/a/2022/convocatoria-2022.pdf) **
+  <b><a href="http://ommyuc.org/a/2022/convocatoria-2022.pdf">Convocatoria 2022</a>
 </div>
 
 ### Instrucciones
