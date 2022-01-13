@@ -1,4 +1,4 @@
-## OMM Yucatán
+## Olimpiada de Matemáticas Yucatán
 
 ### Enlace al examen
 
