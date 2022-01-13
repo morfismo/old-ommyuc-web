@@ -2,7 +2,7 @@
 
 ### Enlace al examen
 
-* [4° y 5° de Primaria]  (inactivo)
+> [4° y 5° de Primaria]  (inactivo)
 * [1°, 2° y 3° de Secundaria] (inactivo)
 * [1° y 2° de Bachillerato] (inactivo)
 
