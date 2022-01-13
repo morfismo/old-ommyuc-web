@@ -5,7 +5,7 @@
 El examen inicia el día 5 de febrero a las 10:00.
 Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 
-> Al enviar tus respuestas, será necesario enviar una **constancia escolar** en PDF que indique:
+> Al enviar tus respuestas, será necesario adjuntar una **constancia escolar** en PDF que indique:
 > * Tu nombre
 > * El nombre de tu escuela
 > * El grado escolar en el que cursas 
