@@ -2,7 +2,13 @@
 
 ### Instrucciones
 
-El examen se realiza en línea.  Se activarán los enlaces el día 5 de febrero a las 10:00.
+El examen inicia el día 5 de febrero a las 10:00.
+Consta de 15 preguntas y tiene una duración máxima de 2 horas.
+
+Para poder enviar tus respuestas es necesario enviar una **constancia escolar** que indique:
+> * Tu nombre
+* El nombre de tu escuela
+* El grado escolar en el que cursas 
 
 
 
@@ -23,5 +29,5 @@ El examen se realiza en línea.  Se activarán los enlaces el día 5 de febrero 
 
 ### Enlaces:
 
-* **[Facultad de Matemáticas UADY](https://intranet.matematicas.uady.mx/omm/)
-* **[Facebook de la OMMYUC](https://www.facebook.com/OMMYucatan)
+* **[Facultad de Matemáticas UADY](https://intranet.matematicas.uady.mx/omm/)**
+* **[Facebook de la OMMYUC](https://www.facebook.com/OMMYucatan)**
