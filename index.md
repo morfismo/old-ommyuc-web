@@ -13,7 +13,7 @@ Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 > _Por favor, solicita con anticipación esta constancia en tu escuela_ 
 
 El siguiente es en enlace al **Examen de Secundaria 2021**, para que conozcas cómo son los exámenes.
-* **[Examen muestra: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSfASKRYjKfVC2Nwt1LdCs6DpjHCyG8Z-atllCZMzmOplYPA-w/viewform?usp=sf_link)**
+* **[Examen muestra: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)**
 
 ### Ingreso al Examen 2022
 
