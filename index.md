@@ -19,10 +19,6 @@ El siguiente es en enlace al **Examen de Secundaria 2021**, para que conozcas c�
 
 > Los enlaces están inactivos por el momento.
 
-* **4º y 5º de PRIMARIA** 
-* **1º, 2º y 3º de SECUNDARIA**
-* **1º y 2º de BACHILLERATO**
-
 
 ### Material de preparación
 
