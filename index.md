@@ -12,7 +12,12 @@ Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 > 
 > _Por favor, solicita con anticipación esta constancia en tu escuela_ 
 
-### Ingreso al examen
+
+
+
+
+
+### Ingreso al examen 2022
 
 > Los enlaces están inactivos por el momento.
 
@@ -26,6 +31,7 @@ Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 * **[Exámenes anteriores](https://intranet.matematicas.uady.mx/omm/problemarios)**
 * **[Libro: 20 temas Selectos, volumen 1](https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i?_pos=2&_sid=377d6fe44&_ss=r)**
 * **[Libro: La Olimpiada de Matemáticas en Yucatàn, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)**
+
 
 ### Enlaces:
 
