@@ -5,11 +5,12 @@
 El examen inicia el día 5 de febrero a las 10:00.
 Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 
-Al enviar tus respuestas, será necesario enviar una **constancia escolar** en PDF que indique:
+> Al enviar tus respuestas, será necesario enviar una **constancia escolar** en PDF que indique:
 > * Tu nombre
 > * El nombre de tu escuela
 > * El grado escolar en el que cursas 
-_Por favor, solicita con anticipación esta constancia en tu escuela_ 
+> 
+> _Por favor, solicita con anticipación esta constancia en tu escuela_ 
 
 ### Ingreso al examen
 
@@ -24,7 +25,7 @@ _Por favor, solicita con anticipación esta constancia en tu escuela_
 
 * **[Exámenes anteriores](https://intranet.matematicas.uady.mx/omm/problemarios)**
 * **[Libro: 20 temas Selectos, volumen 1](https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i?_pos=2&_sid=377d6fe44&_ss=r)**
-* [Libro: La Olimpiada de Matemáticas en Yucatàn, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)
+* **[Libro: La Olimpiada de Matemáticas en Yucatàn, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)**
 
 ### Enlaces:
 
