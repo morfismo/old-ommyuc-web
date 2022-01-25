@@ -6,7 +6,7 @@
 
 ### Instrucciones
 
-El examen para los 3 niveles (primaria, secundaria, bachillerato) inicia el día 5 de febrero a las 10:00.
+El examen para cada uno de los 3 niveles (primaria, secundaria, bachillerato) inicia el día 5 de febrero a las 10:00.
 Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 
 > Al enviar tus respuestas, será necesario adjuntar una **constancia escolar** en PDF que indique:
