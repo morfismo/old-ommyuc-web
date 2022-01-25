@@ -20,7 +20,7 @@ El examen se podrá descargar el día 5 de febrero y lo puedes imprimir si desea
 
 Para que conozcas cómo es un examen, puedes revisar como muestra el Examen de Secundaria 2021:
 * **[Examen muestra: Secundaria 2021](https://github.com/morfismo/ommyuc-web/raw/gh-pages/a/2022/OMMYUC2021-SECUNDARIA.pdf)**
-* **[Enlace para entregar respuestas Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)**
+* **[Enlace muestra de entrega de respuestas: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)**
 
 ### Ingreso al Examen 2022
 
