@@ -19,7 +19,7 @@ Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 El examen se podrá descargar el día 5 de febrero y lo puedes imprimir si deseas. Cuando termines de intentar, entra al enlace de entrega para subir tus respuestas y tu constancia escolar.  
 
 Para que conozcas cómo es un examen, puedes revisar como muestra el Examen de Secundaria 2021:
-* **[Examen muestra: Secundaria 2021](http://ommyuc.org/a/2022/OMMYUC-SECUNDARIA.pdf)**
+* **[Examen muestra: Secundaria 2021](https://github.com/morfismo/ommyuc-web/raw/gh-pages/a/2022/OMMYUC2021-SECUNDARIA.pdf)**
 * **[Enlace para entregar respuestas Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)**
 
 ### Ingreso al Examen 2022
