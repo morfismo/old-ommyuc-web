@@ -18,22 +18,22 @@ Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 
 El examen se podrá descargar el día 5 de febrero y lo puedes imprimir si deseas. Cuando termines de intentar, entra al enlace de entrega para subir tus respuestas y tu constancia escolar.  
 
-**No es necesario que los participantes estén conectados durante el tiempo de la prueba**, para poder facilitar la aplicación en los lugares donde no haya internet estable:
-Los detalles de aplicación son los siguientes
+#### Detalles de la aplicación del examen
 
-> 1. Al inicio de la prueba, se puede descargar el PDF del examen, e imprimirlo. 
-> 2.  El niño puede intentarlo en un salón o mesa, sin necesidad de estar _en la computadora_.
-> 3. Cuando el niño haya terminado de intentar, entonces (y sólo entonces) accederá al enlace de entrega (es un Google Forms), en donde pondrá sus datos (nombre, escuela, etc.), sus respuestas y subirá constancia. Una vez presionado "enviar", habrá terminado la prueba. 
-> 4. No es necesario escanear las hojas, únicamente hay que escribir las respuestas en el formulario y sólo se necesita internet _al inicio_ para descargar la prueba y _al final_ para enviar sus respuestas.
+**No es necesario que los participantes estén conectados durante todo el tiempo que dura la prueba**.
+Entendemos que existen comunidades donde el acceso a internet es complicado, por lo que requerimos lo menos posible el acceso a internet:
 
-Entendemos que existen comunidades donde el acceso a Internet es complicado y por tanto no requerimos que estén conectados durante las 2 horas de la prueba. 
+> 1. Al inicio de la prueba, se puede descargar el PDF del examen, e imprimirlo (en su casa o en su escuela). 
+> 2.  El niño puede intentarlo en un salón o mesa, _sin necesidad de estar conectado en la computadora_.
+> 3. Cuando el niño haya terminado de intentar el examen, entonces (y sólo entonces) se accederá al enlace de entrega (es un Google Forms), en donde pondrá sus datos (nombre, escuela, etc.), sus respuestas y subirá la constancia. Una vez presionado "enviar", habrá terminado la prueba. 
+> 4. Tampoco es necesario escanear las hojas, únicamente hay que escribir las respuestas en el formulario y sólo se necesita internet _al inicio_ para descargar la prueba y _al final_ para enviar sus respuestas. 
 
-En resumen:: El examen se puede imprimir, se puede presentar en un salón (por ejemplo, si son varios niños) y sólo se necesitará internet al momento de subir sus respuestas.
+Entendemos que existen comunidades donde el acceso a Internet es complicado, por lo que no es necesario conexión salvo al inicio para bajar la prueba y al final para entregar respuestas. 
 
+Ponemos a su disposición, como ejemplo, los enlaces que se usaron el año pasado, para la prueba de Secundaria 2021:
 
-Para que conozcas cómo es un examen, puedes revisar como muestra el Examen de Secundaria 2021:
-* **[Examen muestra: Secundaria 2021](https://github.com/morfismo/ommyuc-web/raw/gh-pages/a/2022/OMMYUC2021-SECUNDARIA.pdf)** (PDF)
-* **[Enlace muestra de entrega de respuestas: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)**
+* **[Examen muestra: Secundaria 2021](https://github.com/morfismo/ommyuc-web/raw/gh-pages/a/2022/OMMYUC2021-SECUNDARIA.pdf)** (PDF que se descarga al inicio)
+* **[Enlace muestra de entrega de respuestas: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)** (enlace para subir sus respuestas al final)
 
 ### Ingreso al Examen 2022
 
