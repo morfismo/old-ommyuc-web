@@ -18,6 +18,19 @@ Consta de 15 preguntas y tiene una duración máxima de 2 horas.
 
 El examen se podrá descargar el día 5 de febrero y lo puedes imprimir si deseas. Cuando termines de intentar, entra al enlace de entrega para subir tus respuestas y tu constancia escolar.  
 
+**No es necesario que los participantes estén conectados durante el tiempo de la prueba**, para poder facilitar la aplicación en los lugares donde no haya internet estable:
+Los detalles de aplicación son los siguientes
+
+> 1. Al inicio de la prueba, se puede descargar el PDF del examen, e imprimirlo. 
+> 2.  El niño puede intentarlo en un salón o mesa, sin necesidad de estar _en la computadora_.
+> 3. Cuando el niño haya terminado de intentar, entonces (y sólo entonces) accederá al enlace de entrega (es un Google Forms), en donde pondrá sus datos (nombre, escuela, etc.), sus respuestas y subirá constancia. Una vez presionado "enviar", habrá terminado la prueba. 
+> 4. No es necesario escanear las hojas, únicamente hay que escribir las respuestas en el formulario y sólo se necesita internet _al inicio_ para descargar la prueba y _al final_ para enviar sus respuestas.
+
+Entendemos que existen comunidades donde el acceso a Internet es complicado y por tanto no requerimos que estén conectados durante las 2 horas de la prueba. 
+
+En resumen:: El examen se puede imprimir, se puede presentar en un salón (por ejemplo, si son varios niños) y sólo se necesitará internet al momento de subir sus respuestas.
+
+
 Para que conozcas cómo es un examen, puedes revisar como muestra el Examen de Secundaria 2021:
 * **[Examen muestra: Secundaria 2021](https://github.com/morfismo/ommyuc-web/raw/gh-pages/a/2022/OMMYUC2021-SECUNDARIA.pdf)** (PDF)
 * **[Enlace muestra de entrega de respuestas: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)**
