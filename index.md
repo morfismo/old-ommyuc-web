@@ -35,6 +35,8 @@ Ponemos a su disposición, como ejemplo, los enlaces que se usaron el año pasad
 * **[Examen muestra: Secundaria 2021](https://github.com/morfismo/ommyuc-web/raw/gh-pages/a/2022/OMMYUC2021-SECUNDARIA.pdf)** (PDF que se descarga al inicio)
 * **[Enlace muestra de entrega de respuestas: Secundaria 2021](https://docs.google.com/forms/d/e/1FAIpQLSf0OapKm_ZdlPczlO3ZaXcFsvJb_lolijOHoZhkZJwOSe4ttA/viewform?usp=sf_link)** (enlace para subir sus respuestas al final)
 
+Cualquier duda adicional sobre la aplicación, ponemos a su disposición el correo: ommyuc@gmail.com 
+
 ### Ingreso al Examen 2022
 
 > Los enlaces están inactivos por el momento.
