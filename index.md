@@ -23,11 +23,11 @@ El examen se podrá descargar el día 5 de febrero y lo puedes imprimir si desea
 **No es necesario que los participantes estén conectados durante todo el tiempo que dura la prueba**.
 Entendemos que existen comunidades donde el acceso a internet es complicado, por lo que requerimos lo menos posible el acceso a internet:
 
-> 1. Al inicio de la prueba, se puede descargar el PDF del examen, e imprimirlo (en su casa o en su escuela). 
-> 2.  El niño puede intentarlo en un salón o mesa, _sin necesidad de estar conectado en la computadora_ durante el tiempo que dura el examen.
-> 3. Cuando el niño haya terminado de intentar el examen, entonces (y sólo entonces) se accederá al enlace de entrega (es un Google Forms) antes de la hora límite.
-> 4. En el formulario pondrá sus datos (nombre, escuela, etc.), sus respuestas y subirá la constancia. Una vez presionado "enviar", _habrá terminado la prueba_. 
-> 4. Tampoco es necesario escanear las hojas, únicamente hay que escribir las respuestas en el formulario y sólo se necesita internet _al inicio_ para descargar la prueba y _al final_ para enviar sus respuestas. 
+> 1. **Al inicio de la prueba, se descarga el PDF del examen, e imprimirlo si se desea** (en su casa o en su escuela). 
+> 2. El niño puede intentarlo en un salón o mesa, **sin necesidad de estar conectado en la computadora** durante el tiempo que dura el examen.
+> 3. Cuando el niño haya terminado de intentar el examen, **se accederá al enlace de entrega (es un Google Forms) antes de la hora límite**.
+> 4. En el formulario pondrá sus datos (nombre, escuela, etc.), sus respuestas y subirá la constancia. **Una vez presionado "enviar", habrá terminado la prueba**. 
+> 4. Tampoco es necesario escanear las hojas, únicamente hay que escribir las respuestas en el formulario y **sólo se necesita internet _al inicio_ para descargar la prueba y _al final_ para enviar sus respuestas**. 
 
 Entendemos que existen comunidades donde el acceso a Internet es complicado, por lo que no es necesario conexión salvo al inicio para bajar la prueba y al final para entregar respuestas. 
 
