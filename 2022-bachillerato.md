@@ -21,9 +21,10 @@ Puedes descargar el Examen de Bachillerato en cualquiera de los siguientes enlac
 
 ## Subida de respuestas
 
-Usa el siguiente enlace para subir tus respuestas.
+Usa cualquiera de los siguientes enlaces para subir tus respuestas.
 
-> * Enlace para subir respuestas **(se activa a las 10:00)**.
+> * [Entrega de respuestas Bachillerato](https://forms.gle/iS4oSGHTGnwZ6tfX7)
+> * [Entrega de respuestas Bachillerato](https://docs.google.com/forms/d/e/1FAIpQLSc2ewLqUokMpHf3AkM7KabVNL3VCE-9ZfX71y27QhVTHbgTYQ/viewform?usp=sf_link)
 
 Es importante que al entregar:
 
