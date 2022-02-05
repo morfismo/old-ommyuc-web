@@ -4,9 +4,9 @@
 
 Puedes descargar el Examen de Primaria en cualquiera de los siguientes enlaces:
 
-> * [Examen de Primaria 2022](http://ommyuc.org/pdf/2022/2022-PRIMARIA.pdf)
-> * [Examen de Primaria 2022](https://drive.google.com/file/d/1eUEPL3dxsRlhvW9b93UESHq4R0hbvTSK/view?usp=sharing)
-> * [Examen de Primaria 2022](https://www.dropbox.com/s/cggzl0zlbaatn2x/2022-PRIMARIA.pdf?dl=0)
+> * **[Examen de Primaria 2022](http://ommyuc.org/pdf/2022/2022-PRIMARIA.pdf)**
+> * **[Examen de Primaria 2022](https://drive.google.com/file/d/1eUEPL3dxsRlhvW9b93UESHq4R0hbvTSK/view?usp=sharing)**
+> * **[Examen de Primaria 2022](https://www.dropbox.com/s/cggzl0zlbaatn2x/2022-PRIMARIA.pdf?dl=0)**
 
 **Información importante:**
 
@@ -20,8 +20,8 @@ Puedes descargar el Examen de Primaria en cualquiera de los siguientes enlaces:
 
 Usa cualquiera de los siguientes dos enlaces para subir tus respuestas.
 
-> * [Subir respuestas PRIMARIA](https://forms.gle/CnP8UY3dXDCCykYm7)
-> * [Subir respuestas PRIMARIA](https://docs.google.com/forms/d/e/1FAIpQLSd48Nz7ptZiC0ei3H56FCp-2xyU-CMgH2kJMEor2ASQDFC5UA/viewform?usp=sf_link)
+> * **[Subir respuestas PRIMARIA](https://forms.gle/CnP8UY3dXDCCykYm7)**
+> * **[Subir respuestas PRIMARIA](https://docs.google.com/forms/d/e/1FAIpQLSd48Nz7ptZiC0ei3H56FCp-2xyU-CMgH2kJMEor2ASQDFC5UA/viewform?usp=sf_link)**
 
 Es importante que al entregar:
 
