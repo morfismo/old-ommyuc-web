@@ -4,12 +4,11 @@
 
 ## Descarga del examen.
 
-Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces **(se activan a las 10:00)**.
+Puedes descargar el Examen de Bachillerato en cualquiera de los siguientes enlaces **(se activan a las 10:00)**.
 
-> * Enlace 1
-> * Enlace 2
-> * Enlace 3
-
+> * [Examen de Bachillerato 2022](http://ommyuc.org/pdf/2022/2022-BACHILLERATO.pdf)
+> * [Examen de Bachillerato 2022](https://drive.google.com/file/d/1HslKYt9J4Tqvf0ExaHVDCEIlQU9-XU62/view?usp=sharing)
+> * [Examen de Bachillerato 2022](https://www.dropbox.com/s/881w8sikuqy54np/2022-BACHILLERATO.pdf?dl=0)
 
 **Información importante:**
 
