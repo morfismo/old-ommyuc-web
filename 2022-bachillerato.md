@@ -33,5 +33,5 @@ Es importante que al entregar:
 
 ## Entrega de constancia escolar
 
-> * [Constancia de 1º de bachillerato: https://www.dropbox.com/request/vrbZfsic5n47OoNOy53u ](https://www.dropbox.com/request/vrbZfsic5n47OoNOy53u)
-> * [Constancia de 2º de bachillerato: https://www.dropbox.com/request/lUmq43fgeQ9prUEAl25i ](https://www.dropbox.com/request/lUmq43fgeQ9prUEAl25i)
+> * [Constancia de 1º de bachillerato](https://www.dropbox.com/request/vrbZfsic5n47OoNOy53u)
+> * [Constancia de 2º de bachillerato](https://www.dropbox.com/request/lUmq43fgeQ9prUEAl25i)
