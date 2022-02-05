@@ -16,22 +16,21 @@ Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces
 > * No te preocupes si no puedes resolver todos los problemas: únicamente tomamos en cuenta los que sí hagas.
 > * Tienes solo 2 horas para intentar el examen, pero la hora límite para entrar a poner tus respuestas es 12:20.
 
-
-
-## Entrega de respuestas
+## Subida de respuestas
 
 Usa el siguiente enlace para subir tus respuestas.
 
-> * Enlace de entrega de respuestas
-
-Usa el siguiente enlace para subir tu constancia escolar
-
-> * Enlace de entrega de constancia
-
+> * Enlace para subir respuestas
 
 **Información importante:**
 
-En la primera parte te pediremos algunos datos, es muy importante que:
+Es muy importante que al entregar:
 
 * Indiques tu nombre **completo**, sin abreviaciones y con los acentos que correspondan.
 * Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
+
+## Entrega de constancia escolar
+
+> * [Constancia de 1º de secundaria: https://www.dropbox.com/request/Uys94etG2d6psdWu6RPg ](https://www.dropbox.com/request/Uys94etG2d6psdWu6RPg)
+> * [Constancia de 2º de secundaria: https://www.dropbox.com/request/SQbN7qDJ79dV2Tw1eiZ9 ](https://www.dropbox.com/request/SQbN7qDJ79dV2Tw1eiZ9)
+> * [Constancia de 3º de secundaria: https://www.dropbox.com/request/JD3fCvluwlKl1QWlmRVr ](https://www.dropbox.com/request/JD3fCvluwlKl1QWlmRVr)
