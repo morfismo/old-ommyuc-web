@@ -16,11 +16,18 @@ Puedes descargar el Examen de Primaria en cualquiera de los siguientes enlaces:
 > * No te preocupes si no puedes resolver todos los problemas: únicamente tomamos en cuenta los que sí hagas.
 > * Tienes solo 2 horas para intentar el examen, pero la hora límite para entrar a poner tus respuestas es 12:20.
 
-## Entrega de respuestas
+## Subida de respuestas
 
 Usa el siguiente enlace para subir tus respuestas.
 
 > * Enlace para subir respuestas
+
+**Información importante:**
+
+Es muy importante que al entregar:
+
+* Indiques tu nombre **completo**, sin abreviaciones y con los acentos que correspondan.
+* Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
 
 ## Entrega de constancia escolar
 
@@ -28,9 +35,4 @@ Usa el siguiente enlace para subir tus respuestas.
 > * [Constancias de 5º de primaria https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC ](https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC)
 > * [Constancias de 6º de primaria https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV ](https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV)
 
-**Información importante:**
 
-En la primera parte te pediremos algunos datos, es muy importante que:
-
-* Indiques tu nombre **completo**, sin abreviaciones y con los acentos que correspondan.
-* Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
