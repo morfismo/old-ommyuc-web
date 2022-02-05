@@ -31,8 +31,8 @@ Es importante que al entregar:
 
 ## Entrega de constancia escolar
 
-> * [Constancias de 4º de primaria https://www.dropbox.com/request/dnPoSZMtqsyhzNU73SeD ](https://www.dropbox.com/request/dnPoSZMtqsyhzNU73SeD)
-> * [Constancias de 5º de primaria https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC ](https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC)
-> * [Constancias de 6º de primaria https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV ](https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV)
+> * **[Constancias de 4º de primaria](https://www.dropbox.com/request/dnPoSZMtqsyhzNU73SeD)**
+> * **[Constancias de 5º de primaria](https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC)**
+> * **[Constancias de 6º de primaria](https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV)**
 
 
