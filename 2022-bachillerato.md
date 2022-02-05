@@ -19,19 +19,20 @@ Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces
 > * Tienes 3 horas para intentar el examen, pero la hora límite para entrar a poner tus respuestas es 13:20.
 
 
-## Entrega de respuestas
+## Subida de respuestas
 
 Usa el siguiente enlace para subir tus respuestas.
 
-> * Enlace de entrega de respuestas
-
-Usa el siguiente enlace para subir tu constancia escolar
-
-> * Enlace de entrega de constancia
+> * Enlace para subir respuestas
 
 **Información importante:**
 
-En la primera parte te pediremos algunos datos, es muy importante que:
+Es muy importante que al entregar:
 
 * Indiques tu nombre **completo**, sin abreviaciones y con los acentos que correspondan.
 * Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
+
+## Entrega de constancia escolar
+
+> * [Constancia de 1º de bachillerato: https://www.dropbox.com/request/vrbZfsic5n47OoNOy53u ](https://www.dropbox.com/request/vrbZfsic5n47OoNOy53u)
+> * [Constancia de 2º de bachillerato: https://www.dropbox.com/request/lUmq43fgeQ9prUEAl25i ](https://www.dropbox.com/request/lUmq43fgeQ9prUEAl25i)
