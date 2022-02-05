@@ -31,4 +31,4 @@ Usa el siguiente enlace para subir tu constancia escolar
 En la primera parte te pediremos algunos datos, es muy importante que:
 
 * Indiques tu nombre **completo**, sin abreviaciones y con los acentos que correspondan.
-* Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí te enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
+* Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
