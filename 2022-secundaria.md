@@ -5,8 +5,8 @@
 Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces:
 
 > * **[Examen de Secundaria 2022](http://ommyuc.org/pdf/2022/2022-SECUNDARIA.pdf)**
-> * **[Examen de Secundaria 2022](https://drive.google.com/file/d/1eUEPL3dxsRlhvW9b93UESHq4R0hbvTSK/view?usp=sharing)**
-> * **[Examen de Secundaria 2022](https://www.dropbox.com/s/cggzl0zlbaatn2x/2022-PRIMARIA.pdf?dl=0)**
+> * **[Examen de Secundaria 2022](https://drive.google.com/file/d/13mEbFR3AQl3pjMklBSHswU37-g8HZTFE/view?usp=sharing)**
+> * **[Examen de Secundaria 2022](https://www.dropbox.com/s/n6pgqu50e5k5gvf/2022-SECUNDARIA.pdf?dl=0)**
 
 **Información importante:**
 
