@@ -1,4 +1,4 @@
-# Examen Estatal de PRIMARIA 2022
+# Examen Estatal de SECUNDARIA 2022
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-Puedes descargar el Examen de Primaria en cualquiera de los siguientes enlaces:
+Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces:
 
 
 
