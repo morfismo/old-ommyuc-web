@@ -1,6 +1,6 @@
 # Examen Estatal de BACHILLERATO 2022
 
-<BIG> AVISO IMPORTANTE: La duración máxima del examen de bachillerato será de 3 horas</BIG>
+<BIG><b>AVISO IMPORTANTE: La duración máxima del examen de bachillerato será de 3 horas</b></BIG>
 
 ## Descarga del examen.
 
