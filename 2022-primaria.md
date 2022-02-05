@@ -20,11 +20,13 @@ Puedes descargar el Examen de Primaria en cualquiera de los siguientes enlaces:
 
 Usa el siguiente enlace para subir tus respuestas.
 
-> * Enlace de entrega de respuestas
+> * Enlace para subir respuestas
 
-Usa el siguiente enlace para subir tu constancia escolar
+## Entrega de constancia escolar
 
-> * Enlace de entrega de constancia
+> * [Constancias de 4º de primaria https://www.dropbox.com/request/dnPoSZMtqsyhzNU73SeD ](https://www.dropbox.com/request/dnPoSZMtqsyhzNU73SeD)
+> * [Constancias de 5º de primaria https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC ](https://www.dropbox.com/request/zFzFUdpIvIepp3nEPeQC)
+> * [Constancias de 6º de primaria https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV ](https://www.dropbox.com/request/ouxLJUqyBmbcqVRFtSNV)
 
 **Información importante:**
 
