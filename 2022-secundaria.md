@@ -4,9 +4,9 @@
 
 Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces:
 
-> * [Examen de Secundaria 2022](http://ommyuc.org/pdf/2022/2022-SECUNDARIA.pdf)
-> * [Examen de Secundaria 2022](https://drive.google.com/file/d/1eUEPL3dxsRlhvW9b93UESHq4R0hbvTSK/view?usp=sharing)
-> * [Examen de Secundaria 2022](https://www.dropbox.com/s/cggzl0zlbaatn2x/2022-PRIMARIA.pdf?dl=0)
+> * **[Examen de Secundaria 2022](http://ommyuc.org/pdf/2022/2022-SECUNDARIA.pdf)**
+> * **[Examen de Secundaria 2022](https://drive.google.com/file/d/1eUEPL3dxsRlhvW9b93UESHq4R0hbvTSK/view?usp=sharing)**
+> * **[Examen de Secundaria 2022](https://www.dropbox.com/s/cggzl0zlbaatn2x/2022-PRIMARIA.pdf?dl=0)**
 
 **Información importante:**
 
@@ -20,8 +20,8 @@ Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces
 
 Usa  cualquiera de los siguientes enlaces para subir tus respuestas:
 
-> * [Entrega de respuestas SECUNDARIA](https://forms.gle/RW8FSgkM2uejcJ2bA)
-> * [Entrega de respuestas SECUNDARIA](https://docs.google.com/forms/d/e/1FAIpQLSdQJG461m84YwfqOr4ku8HIG0MJIzNQAHzjxrnV1y_gSP92CQ/viewform?usp=sf_link)
+> * **[Entrega de respuestas SECUNDARIA](https://forms.gle/RW8FSgkM2uejcJ2bA)**
+> * **[Entrega de respuestas SECUNDARIA](https://docs.google.com/forms/d/e/1FAIpQLSdQJG461m84YwfqOr4ku8HIG0MJIzNQAHzjxrnV1y_gSP92CQ/viewform?usp=sf_link)**
 
 Es importante que al entregar:
 
