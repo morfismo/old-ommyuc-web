@@ -4,11 +4,12 @@
 
 ## Descarga del examen.
 
-Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces:
+Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces **(se activan a las 10:00)**.
 
 > * Enlace 1
 > * Enlace 2
 > * Enlace 3
+
 
 **Información importante:**
 
@@ -23,7 +24,7 @@ Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces
 
 Usa el siguiente enlace para subir tus respuestas.
 
-> * Enlace para subir respuestas
+> * Enlace para subir respuestas **(se activa a las 10:00)**.
 
 Es importante que al entregar:
 
