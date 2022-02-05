@@ -25,12 +25,10 @@ Usa el siguiente enlace para subir tus respuestas.
 
 > * Enlace para subir respuestas
 
-**Información importante:**
+Es importante que al entregar:
 
-Es muy importante que al entregar:
-
-* Indiques tu nombre **completo**, sin abreviaciones y con los acentos que correspondan.
-* Proporciones un correo electrónico (de alguno de tus papás o de un profesor) por que ahí enviaremos tus resultados y te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
+* Indica tu **nombre completo**, sin abreviaciones y con los acentos que correspondan.
+* Proporciona un correo electrónico (de alguno de tus papás o de un profesor) por que ahí te avisaremos si quedas seleccionado. Por favor asegúrate de escribirlo correctamente.
 
 ## Entrega de constancia escolar
 
