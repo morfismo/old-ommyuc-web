@@ -16,7 +16,7 @@ Puedes descargar el Examen de Secundaria en cualquiera de los siguientes enlaces
 > * No necesitas quedarte junto a la computadora mientras intentas el examen. 
 > * Todas las respuestas son números enteros.
 > * No te preocupes si no puedes resolver todos los problemas: únicamente tomamos en cuenta los que sí hagas.
-> * Tienes solo 2 horas para intentar el examen, pero la hora límite para entrar a poner tus respuestas es 13:20.
+> * Tienes 3 horas para intentar el examen, pero la hora límite para entrar a poner tus respuestas es 13:20.
 
 
 ## Entrega de respuestas
