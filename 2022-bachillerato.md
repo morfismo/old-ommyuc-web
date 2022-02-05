@@ -6,9 +6,9 @@
 
 Puedes descargar el Examen de Bachillerato en cualquiera de los siguientes enlaces.
 
-> * [Examen de Bachillerato 2022](http://ommyuc.org/pdf/2022/2022-BACHILLERATO.pdf)
-> * [Examen de Bachillerato 2022](https://drive.google.com/file/d/1HslKYt9J4Tqvf0ExaHVDCEIlQU9-XU62/view?usp=sharing)
-> * [Examen de Bachillerato 2022](https://www.dropbox.com/s/881w8sikuqy54np/2022-BACHILLERATO.pdf?dl=0)
+> * **[Examen de Bachillerato 2022](http://ommyuc.org/pdf/2022/2022-BACHILLERATO.pdf)**
+> * **[Examen de Bachillerato 2022](https://drive.google.com/file/d/1HslKYt9J4Tqvf0ExaHVDCEIlQU9-XU62/view?usp=sharing)**
+> * **[Examen de Bachillerato 2022](https://www.dropbox.com/s/881w8sikuqy54np/2022-BACHILLERATO.pdf?dl=0)**
 
 **Información importante:**
 
@@ -23,8 +23,8 @@ Puedes descargar el Examen de Bachillerato en cualquiera de los siguientes enlac
 
 Usa cualquiera de los siguientes enlaces para subir tus respuestas.
 
-> * [Entrega de respuestas Bachillerato](https://forms.gle/iS4oSGHTGnwZ6tfX7)
-> * [Entrega de respuestas Bachillerato](https://docs.google.com/forms/d/e/1FAIpQLSc2ewLqUokMpHf3AkM7KabVNL3VCE-9ZfX71y27QhVTHbgTYQ/viewform?usp=sf_link)
+> * **[Entrega de respuestas Bachillerato](https://forms.gle/iS4oSGHTGnwZ6tfX7)**
+> * **[Entrega de respuestas Bachillerato](https://docs.google.com/forms/d/e/1FAIpQLSc2ewLqUokMpHf3AkM7KabVNL3VCE-9ZfX71y27QhVTHbgTYQ/viewform?usp=sf_link)**
 
 Es importante que al entregar:
 
