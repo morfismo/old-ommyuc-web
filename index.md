@@ -1,9 +1,9 @@
 ## Examen Estatal 2022
 
 
-> * [Acceso para primaria](http://ommyuc.org/2022-primaria)
-> * [Acceso para secundaria](http://ommyuc.org/2022-secundaria)
-> * [Acceso para bachillerato](http://ommyuc.org/2022-bachillerato)
+> * **[Acceso para primaria](http://ommyuc.org/2022-primaria)**
+> * **[Acceso para secundaria](http://ommyuc.org/2022-secundaria)**
+> * **[Acceso para bachillerato](http://ommyuc.org/2022-bachillerato)**
 
 
 ### Material de preparación
