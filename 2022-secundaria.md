@@ -31,6 +31,6 @@ Es importante que al entregar:
 
 ## Entrega de constancia escolar
 
-> * [Constancia de 1º de secundaria: https://www.dropbox.com/request/Uys94etG2d6psdWu6RPg ](https://www.dropbox.com/request/Uys94etG2d6psdWu6RPg)
-> * [Constancia de 2º de secundaria: https://www.dropbox.com/request/SQbN7qDJ79dV2Tw1eiZ9 ](https://www.dropbox.com/request/SQbN7qDJ79dV2Tw1eiZ9)
-> * [Constancia de 3º de secundaria: https://www.dropbox.com/request/JD3fCvluwlKl1QWlmRVr ](https://www.dropbox.com/request/JD3fCvluwlKl1QWlmRVr)
+> * [Constancia de 1º de secundaria](https://www.dropbox.com/request/Uys94etG2d6psdWu6RPg)
+> * [Constancia de 2º de secundaria](https://www.dropbox.com/request/SQbN7qDJ79dV2Tw1eiZ9)
+> * [Constancia de 3º de secundaria](https://www.dropbox.com/request/JD3fCvluwlKl1QWlmRVr)
