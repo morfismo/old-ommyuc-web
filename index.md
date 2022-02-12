@@ -1,7 +1,7 @@
 ## Noticias
 
 <a href="https://www.yucatan.com.mx/merida/2022/2/10/quien-es-maria-fernanda-lopez-la-yucateca-que-obtuvo-oro-en-matematicas-295976.html">
-<img src="https://www.yucatan.com.mx/u/fotografias/m/2022/2/10/f800x450-530996_582442_5050.jpg"  width="250"/>
+<img src="https://www.yucatan.com.mx/u/fotografias/m/2022/2/10/f800x450-530996_582442_5050.jpg" width="250"/>
 </a>
 
 [Quién es María Fernanda López, la yucateca que obtuvo oro en Matemáticas (Diario de Yucatán)](https://www.yucatan.com.mx/merida/2022/2/10/quien-es-maria-fernanda-lopez-la-yucateca-que-obtuvo-oro-en-matematicas-295976.html)
