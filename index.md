@@ -1,19 +1,18 @@
-## Examen Estatal 2022
+## Noticias
 
+<a href="https://www.yucatan.com.mx/merida/2022/2/10/quien-es-maria-fernanda-lopez-la-yucateca-que-obtuvo-oro-en-matematicas-295976.html">
+<img src="https://www.yucatan.com.mx/u/fotografias/m/2022/2/10/f800x450-530996_582442_5050.jpg" alt="Diario de Yucatán"  width="250"/><p>
+Quién es María Fernanda López, la yucateca que obtuvo oro en Matemáticas (Diario de Yucatán)
+</a>
+<p></p>
+<p></p>
+<a href="https://sipse.com/novedades-yucatan/estudiante-yucateca-consigue-examen-perfecto-en-olimpiada-de-matematicas-418299.html">
+<img src="https://images.sipse.com/UJ13B_2Y0rsGxIIQb82suxjiU-I=/827x508/smart/filters:format(webp)/2022/02/08/1644352564754.jpg" alt="Novedades Yucatán"  width="250"><p>
+Estudiante yucateca consigue examen perfecto en Olimpiada de Matemáticas (Novedades Yucatán)
+  </a>
 
-> * **[Acceso para primaria](http://ommyuc.org/2022-primaria)**
-> * **[Acceso para secundaria](http://ommyuc.org/2022-secundaria)**
-> * **[Acceso para bachillerato](http://ommyuc.org/2022-bachillerato)**
+## Resultados de la Prueba Estatal 2022 (5 de febrero)
 
-
-### Material de preparación
-
-* **[Exámenes anteriores](https://intranet.matematicas.uady.mx/omm/problemarios)**
-* **[Libro: 20 temas Selectos, volumen 1](https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i?_pos=2&_sid=377d6fe44&_ss=r)**
-* **[Libro: La Olimpiada de Matemáticas en Yucatán, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)**
-
-
-### Enlaces:
-
-* **[Facultad de Matemáticas UADY](https://intranet.matematicas.uady.mx/omm/)**
-* **[Facebook de la OMMYUC](https://www.facebook.com/OMMYucatan)**
+> * **Alumnos Seleccionados de Primaria**
+> * **Alumnos Seleccionados de Secundaria**
+> * **Alumnos Seleccionados de Bachillerato**
