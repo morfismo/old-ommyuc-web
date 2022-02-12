@@ -13,6 +13,6 @@ Estudiante yucateca consigue examen perfecto en Olimpiada de Matemáticas (Noved
 
 ## Resultados de la Prueba Estatal 2022 (5 de febrero)
 
-> * **Alumnos Seleccionados de Primaria**
-> * **Alumnos Seleccionados de Secundaria**
-> * **Alumnos Seleccionados de Bachillerato**
+> * **[Alumnos Seleccionados de Primaria](pdf/2022/2022-PRIMARIA-PDF.pdf)**
+> * **[Alumnos Seleccionados de Secundaria]](pdf/2022/2022-SECUNDARIA-PDF.pdf)**
+> * **[Alumnos Seleccionados de Bachillerato]](pdf/2022/2022-BACHILLERATO-PDF.pdf)**
