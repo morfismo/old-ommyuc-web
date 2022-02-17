@@ -9,3 +9,21 @@
 > * **[Alumnos Seleccionados de Primaria](pdf/2022/2022-PRIMARIA-PDF.pdf)**
 > * **[Alumnos Seleccionados de Secundaria](pdf/2022/2022-SECUNDARIA-PDF.pdf)**
 > * **[Alumnos Seleccionados de Bachillerato](pdf/2022/2022-BACHILLERATO-PDF.pdf)**
+
+
+> * **[Examen de primaria](http://ommyuc.org/2022-primaria)**
+> * **[Examen de secundaria](http://ommyuc.org/2022-secundaria)**
+> * **[Examen de bachillerato](http://ommyuc.org/2022-bachillerato)**
+
+
+### Material de preparación
+
+* **[Exámenes anteriores](https://intranet.matematicas.uady.mx/omm/problemarios)**
+* **[Libro: 20 temas Selectos, volumen 1](https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i?_pos=2&_sid=377d6fe44&_ss=r)**
+* **[Libro: La Olimpiada de Matemáticas en Yucatán, los primeros 30 años](https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&_sid=02a776b67&_ss=r)**
+
+
+### Enlaces:
+
+* **[Facultad de Matemáticas UADY](https://intranet.matematicas.uady.mx/omm/)**
+* **[Facebook de la OMMYUC](https://www.facebook.com/OMMYucatan)**
