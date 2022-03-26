@@ -8,7 +8,7 @@
 ## De sexto de primaria hasta 2 de secundaria
 
 > * **[Primera sección: Sexto de Primaria hasta 2o de Secundaria](https://docs.google.com/forms/d/e/1FAIpQLSdsw5abMtBbxRaxLW2arLW0DDslMO8UpDf91PfTk1qASz7FXQ/viewform?usp=sf_link)**
-> * **[Subir archivo de los últimos 3 problemas]()**
+> * **[Subir archivo de los últimos 3 problemas](https://www.dropbox.com/request/2lsedHFK66HED4RRpGFG)**
 > (Los archivos nombralos así:  Problema13-Nombre-Apellido.pdf, Problema14-Nombre-Apellido.pdf, Problema15-Nombre-Apellido.pdf)
 
 
