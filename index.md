@@ -1,19 +1,17 @@
-## Noticias
+## ENTREGA DE RESPUESTAS DEL SELECTIVO
 
-* [Quién es María Fernanda López, la yucateca que obtuvo oro en Matemáticas (Diario de Yucatán)](https://www.yucatan.com.mx/merida/2022/2/10/quien-es-maria-fernanda-lopez-la-yucateca-que-obtuvo-oro-en-matematicas-295976.html)
+## Cuarto y Quinto de Primaria
 
-* [Estudiante yucateca consigue examen perfecto en Olimpiada de Matemáticas (Novedades Yucatán)](https://sipse.com/novedades-yucatan/estudiante-yucateca-consigue-examen-perfecto-en-olimpiada-de-matematicas-418299.html)  
-
-## Resultados de la Prueba Estatal 2022 (5 de febrero)
-
-> * **[Alumnos Seleccionados de Primaria](pdf/2022/2022-PRIMARIA-PDF.pdf)**
-> * **[Alumnos Seleccionados de Secundaria](pdf/2022/2022-SECUNDARIA-PDF.pdf)**
-> * **[Alumnos Seleccionados de Bachillerato](pdf/2022/2022-BACHILLERATO-PDF.pdf)**
+> * **[Entrega de Cuarto y Quinto de Primaria](https://docs.google.com/forms/d/e/1FAIpQLSeNk8ilGtUgv7TEUljtD_o7uCVIrZ1plP3FWuifBUAEf-Wv_Q/viewform?usp=sf_link)**
 
 
-> * **[Examen de primaria](http://ommyuc.org/2022-primaria)**
-> * **[Examen de secundaria](http://ommyuc.org/2022-secundaria)**
-> * **[Examen de bachillerato](http://ommyuc.org/2022-bachillerato)**
+## De sexto de primaria hasta 2 de secundaria
+
+> * **[Primera sección: Sexto de Primaria hasta 2o de Secundaria](https://docs.google.com/forms/d/e/1FAIpQLSdsw5abMtBbxRaxLW2arLW0DDslMO8UpDf91PfTk1qASz7FXQ/viewform?usp=sf_link)**
+> * **[Subir archivo de los últimos 3 problemas]()**
+> (Los archivos nombralos así:  Problema13-Nombre-Apellido.pdf, Problema14-Nombre-Apellido.pdf, Problema15-Nombre-Apellido.pdf)
+
+
 
 
 ### Material de preparación
