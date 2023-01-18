@@ -1,6 +1,6 @@
 ## Convocatoria 2023
 
-![Convocatoria 2023](archivo/2023/convocatoria2023.png)
+[![Convocatoria 2023](archivo/2023/convocatoria2023.png)](archivo/2023/convocatoria-2023.pdf)
 
 ## Material de preparación
 
