@@ -1,3 +1,7 @@
+## Convocatoria 2023
+
+![Convocatoria 2023](https://github.com/morfismo/ommyuc-web/blob/gh-pages/archivo/2023/convocatoria2023.png "Convocatoria 2023"){ width=60%}
+
 ## Material de preparación
 
 * **[Exámenes anteriores](https://intranet.matematicas.uady.mx/omm/problemarios)**
