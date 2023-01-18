@@ -1,6 +1,6 @@
 ## Convocatoria 2023
 
-![Convocatoria 2023](https://github.com/morfismo/ommyuc-web/blob/gh-pages/archivo/2023/convocatoria2023.png){ width=30%}
+![Convocatoria 2023](https://github.com/morfismo/ommyuc-web/blob/gh-pages/archivo/2023/convocatoria2023.png)
 
 ## Material de preparación
 
