@@ -1,7 +1,6 @@
 ## Convocatoria 2023
-Disponible para primaria, secundaria, bachillerato
 
-![Convocatoria 2023](https://github.com/morfismo/ommyuc-web/blob/gh-pages/archivo/2023/convocatoria2023.png)
+![Convocatoria 2023](archivo/2023/convocatoria2023.png)
 
 ## Material de preparación
 
