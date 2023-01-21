@@ -1,6 +1,7 @@
 # Olimpiada de Matemáticas Yucatán
 
-Creatividad en la resolución de problemas
+## Material para preparación:
+[www.matematicas.uady.mx/omm](http://www.matematicas.uady.mx/omm)
 
 Convocatoria 2023 (Primaria, Secundaria y Bachillerato)
 
