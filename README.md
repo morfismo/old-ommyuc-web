@@ -1,7 +1,7 @@
 # Olimpiada de Matemáticas Yucatán
 
 ## Material para preparación:
-[www.matematicas.uady.mx/omm](http://www.matematicas.uady.mx/omm)
+[www.matematicas.uady.mx/omm](https://intranet.matematicas.uady.mx/omm/materiales)
 
 Convocatoria 2023 (Primaria, Secundaria y Bachillerato)
 
