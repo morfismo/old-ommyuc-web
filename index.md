@@ -21,7 +21,7 @@ Cuando termines de intentar la prueba (o cuando sea la hora límite):
 * Ingresa nuevamente a la página, habrá un botón que diga [ENTREGA DE RESPUESTAS].
 * La entrega tiene varias secciones:
 * 1 **Primero se te pedirán varios datos:** Tu nombre completo, el nombre de tu escuela, el grado en el que estás, tu fecha de nacimiento, y dos correos electrónicos donde podamos enviarte un aviso en caso de que seas invitado a la segunda ronda.
-* 2 **Después habrá un apartado donde podrás poner los números que obtuviste como respuesta en cada pregunta** (Por ejemplo: Respuesta 1: 45, Respuesta 2: 812, Respuesta 3: 2022, etc.). Recuerda poner 0 (número cero) en los problemas que no hayas podido o querido resolver. 
+* 2 **Después habrá un apartado donde podrás poner los números que obtuviste como respuesta en cada pregunta** (Por ejemplo: Respuesta 1=45, Respuesta 2= 812, Respuesta 3=2022, etc.). Recuerda poner 0 (número cero) en los problemas que no hayas podido o querido resolver. 
 * 3 Luego de enviar tus respuestas, **se mostrará un enlace para que nos envíes la constancia escolar**.
 
 Si quieres conocer cómo es el proceso de entrega, puedes consultar **[este enlace](https://docs.google.com/forms/d/e/1FAIpQLSd48Nz7ptZiC0ei3H56FCp-2xyU-CMgH2kJMEor2ASQDFC5UA/viewform?usp=sf_link)** para ver cómo se entregó el año pasado.
